@@ -1,4 +1,4 @@
 # docker-alpine-python3-java8
-minimal docker image to run testing pipelines
+Python image with Java 8 and pandas based on Alpine platform
 
 [Dockerhub](https://hub.docker.com/r/parshnt/alpine-python3-java8)
